@@ -29,3 +29,5 @@
     E) false treated first argument as int 1
     F) true treated 2 as true
 15. == compares ignoring datatype, === compares and checks for same data type
+17. [ 2, 4, 6 ] we perform the function doSomething on the array passed into modifyArray which doubles each element of the input array [1,2,3]
+19. 
